@@ -33,7 +33,7 @@ class ProblemRecommender:
             query_vector,
             self.doc_vectors,
             top_k=top_k
-        )
+        )[:top_k]
 
         # Build response
         recommendations = []
