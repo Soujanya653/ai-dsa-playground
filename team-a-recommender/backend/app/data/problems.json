@@ -1,962 +1,450 @@
 [
   {
     "id": 1,
-    "title": "Array Problem 1",
-    "description": "Solve this problem using array. Focus on core array pattern and efficient traversal or optimization.",
+    "title": "Two Sum",
+    "description": "Find two numbers that add up to a target using a hash map.",
     "difficulty": "Easy",
     "topics": [
-      "array"
-    ],
-    "patterns": [
-      "array"
+      "array",
+      "hash map"
     ]
   },
   {
     "id": 2,
-    "title": "Array Problem 2",
-    "description": "Solve this problem using array. Focus on core array pattern and efficient traversal or optimization.",
+    "title": "Best Time to Buy and Sell Stock",
+    "description": "Find the maximum profit by choosing a single buy and sell day.",
     "difficulty": "Easy",
     "topics": [
-      "array"
-    ],
-    "patterns": [
-      "array"
+      "array",
+      "greedy"
     ]
   },
   {
     "id": 3,
-    "title": "Array Problem 3",
-    "description": "Solve this problem using array. Focus on core array pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
+    "title": "Contains Duplicate",
+    "description": "Check if any value appears at least twice in the array.",
+    "difficulty": "Easy",
     "topics": [
-      "array"
-    ],
-    "patterns": [
-      "array"
+      "array",
+      "hash map"
     ]
   },
   {
     "id": 4,
-    "title": "Array Problem 4",
-    "description": "Solve this problem using array. Focus on core array pattern and efficient traversal or optimization.",
+    "title": "Product of Array Except Self",
+    "description": "Return an array where each element is the product except itself.",
     "difficulty": "Medium",
     "topics": [
-      "array"
-    ],
-    "patterns": [
-      "array"
+      "array",
+      "prefix sum"
     ]
   },
   {
     "id": 5,
-    "title": "Array Problem 5",
-    "description": "Solve this problem using array. Focus on core array pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
+    "title": "Maximum Subarray",
+    "description": "Find the contiguous subarray with the maximum sum using dynamic programming.",
+    "difficulty": "Medium",
     "topics": [
-      "array"
-    ],
-    "patterns": [
-      "array"
+      "array",
+      "dynamic programming"
     ]
   },
   {
     "id": 6,
-    "title": "Array Problem 6",
-    "description": "Solve this problem using array. Focus on core array pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
+    "title": "Subarray Sum Equals K",
+    "description": "Count subarrays whose sum equals k using prefix sums and hash map.",
+    "difficulty": "Medium",
     "topics": [
-      "array"
-    ],
-    "patterns": [
-      "array"
+      "array",
+      "hash map",
+      "prefix sum"
     ]
   },
   {
     "id": 7,
-    "title": "String Problem 1",
-    "description": "Solve this problem using string. Focus on core string pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
+    "title": "Container With Most Water",
+    "description": "Find two lines that form the container with the most water.",
+    "difficulty": "Medium",
     "topics": [
-      "string"
-    ],
-    "patterns": [
-      "string"
+      "array",
+      "two pointers"
     ]
   },
   {
     "id": 8,
-    "title": "String Problem 2",
-    "description": "Solve this problem using string. Focus on core string pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
+    "title": "Longest Substring Without Repeating Characters",
+    "description": "Find the longest substring without repeating characters using sliding window.",
+    "difficulty": "Medium",
     "topics": [
-      "string"
-    ],
-    "patterns": [
-      "string"
+      "string",
+      "sliding window",
+      "hash map"
     ]
   },
   {
     "id": 9,
-    "title": "String Problem 3",
-    "description": "Solve this problem using string. Focus on core string pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
+    "title": "Minimum Window Substring",
+    "description": "Find the smallest window containing all characters of another string.",
+    "difficulty": "Hard",
     "topics": [
-      "string"
-    ],
-    "patterns": [
-      "string"
+      "string",
+      "sliding window",
+      "hash map"
     ]
   },
   {
     "id": 10,
-    "title": "String Problem 4",
-    "description": "Solve this problem using string. Focus on core string pattern and efficient traversal or optimization.",
+    "title": "Longest Consecutive Sequence",
+    "description": "Find the length of the longest consecutive elements sequence using hash map.",
     "difficulty": "Medium",
     "topics": [
-      "string"
-    ],
-    "patterns": [
-      "string"
+      "array",
+      "hash map"
     ]
   },
   {
     "id": 11,
-    "title": "String Problem 5",
-    "description": "Solve this problem using string. Focus on core string pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
+    "title": "Binary Search",
+    "description": "Search for a target in a sorted array using binary search.",
+    "difficulty": "Easy",
     "topics": [
-      "string"
-    ],
-    "patterns": [
-      "string"
+      "array",
+      "binary search"
     ]
   },
   {
     "id": 12,
-    "title": "String Problem 6",
-    "description": "Solve this problem using string. Focus on core string pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
+    "title": "Search in Rotated Sorted Array",
+    "description": "Search a target in a rotated sorted array using binary search.",
+    "difficulty": "Medium",
     "topics": [
-      "string"
-    ],
-    "patterns": [
-      "string"
+      "array",
+      "binary search"
     ]
   },
   {
     "id": 13,
-    "title": "Hash Map Problem 1",
-    "description": "Solve this problem using hash map. Focus on core hash map pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
+    "title": "Find First and Last Position of Element",
+    "description": "Find first and last occurrence of a target using binary search.",
+    "difficulty": "Medium",
     "topics": [
-      "hash map"
-    ],
-    "patterns": [
-      "hash map"
+      "array",
+      "binary search"
     ]
   },
   {
     "id": 14,
-    "title": "Hash Map Problem 2",
-    "description": "Solve this problem using hash map. Focus on core hash map pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
+    "title": "Median of Two Sorted Arrays",
+    "description": "Find median of two sorted arrays using binary search.",
+    "difficulty": "Hard",
     "topics": [
-      "hash map"
-    ],
-    "patterns": [
-      "hash map"
+      "array",
+      "binary search"
     ]
   },
   {
     "id": 15,
-    "title": "Hash Map Problem 3",
-    "description": "Solve this problem using hash map. Focus on core hash map pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
+    "title": "Valid Parentheses",
+    "description": "Check if parentheses are valid using a stack.",
+    "difficulty": "Easy",
     "topics": [
-      "hash map"
-    ],
-    "patterns": [
-      "hash map"
+      "stack",
+      "string"
     ]
   },
   {
     "id": 16,
-    "title": "Hash Map Problem 4",
-    "description": "Solve this problem using hash map. Focus on core hash map pattern and efficient traversal or optimization.",
+    "title": "Daily Temperatures",
+    "description": "Find how many days until a warmer temperature using a stack.",
     "difficulty": "Medium",
     "topics": [
-      "hash map"
-    ],
-    "patterns": [
-      "hash map"
+      "stack",
+      "monotonic stack"
     ]
   },
   {
     "id": 17,
-    "title": "Hash Map Problem 5",
-    "description": "Solve this problem using hash map. Focus on core hash map pattern and efficient traversal or optimization.",
+    "title": "Largest Rectangle in Histogram",
+    "description": "Find the largest rectangle area using a monotonic stack.",
     "difficulty": "Hard",
     "topics": [
-      "hash map"
-    ],
-    "patterns": [
-      "hash map"
+      "stack",
+      "monotonic stack"
     ]
   },
   {
     "id": 18,
-    "title": "Hash Map Problem 6",
-    "description": "Solve this problem using hash map. Focus on core hash map pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
+    "title": "Next Greater Element I",
+    "description": "Find the next greater element using a stack.",
+    "difficulty": "Easy",
     "topics": [
-      "hash map"
-    ],
-    "patterns": [
+      "stack",
       "hash map"
     ]
   },
   {
     "id": 19,
-    "title": "Two Pointers Problem 1",
-    "description": "Solve this problem using two pointers. Focus on core two pointers pattern and efficient traversal or optimization.",
+    "title": "Reverse Linked List",
+    "description": "Reverse a singly linked list iteratively.",
     "difficulty": "Easy",
     "topics": [
-      "two pointers"
-    ],
-    "patterns": [
-      "two pointers"
+      "linked list"
     ]
   },
   {
     "id": 20,
-    "title": "Two Pointers Problem 2",
-    "description": "Solve this problem using two pointers. Focus on core two pointers pattern and efficient traversal or optimization.",
+    "title": "Merge Two Sorted Lists",
+    "description": "Merge two sorted linked lists using two pointers.",
     "difficulty": "Easy",
     "topics": [
-      "two pointers"
-    ],
-    "patterns": [
+      "linked list",
       "two pointers"
     ]
   },
   {
     "id": 21,
-    "title": "Two Pointers Problem 3",
-    "description": "Solve this problem using two pointers. Focus on core two pointers pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
+    "title": "Linked List Cycle",
+    "description": "Detect a cycle in a linked list using fast and slow pointers.",
+    "difficulty": "Easy",
     "topics": [
-      "two pointers"
-    ],
-    "patterns": [
+      "linked list",
       "two pointers"
     ]
   },
   {
     "id": 22,
-    "title": "Two Pointers Problem 4",
-    "description": "Solve this problem using two pointers. Focus on core two pointers pattern and efficient traversal or optimization.",
+    "title": "Remove Nth Node From End of List",
+    "description": "Remove the nth node from end using two pointers.",
     "difficulty": "Medium",
     "topics": [
-      "two pointers"
-    ],
-    "patterns": [
+      "linked list",
       "two pointers"
     ]
   },
   {
     "id": 23,
-    "title": "Two Pointers Problem 5",
-    "description": "Solve this problem using two pointers. Focus on core two pointers pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
+    "title": "Maximum Depth of Binary Tree",
+    "description": "Find the maximum depth of a binary tree using DFS.",
+    "difficulty": "Easy",
     "topics": [
-      "two pointers"
-    ],
-    "patterns": [
-      "two pointers"
+      "tree",
+      "dfs"
     ]
   },
   {
     "id": 24,
-    "title": "Two Pointers Problem 6",
-    "description": "Solve this problem using two pointers. Focus on core two pointers pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
+    "title": "Invert Binary Tree",
+    "description": "Invert a binary tree recursively.",
+    "difficulty": "Easy",
     "topics": [
-      "two pointers"
-    ],
-    "patterns": [
-      "two pointers"
+      "tree",
+      "dfs"
     ]
   },
   {
     "id": 25,
-    "title": "Sliding Window Problem 1",
-    "description": "Solve this problem using sliding window. Focus on core sliding window pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "description": "Find LCA of two nodes in a binary tree using DFS.",
+    "difficulty": "Medium",
     "topics": [
-      "sliding window"
-    ],
-    "patterns": [
-      "sliding window"
+      "tree",
+      "dfs"
     ]
   },
   {
     "id": 26,
-    "title": "Sliding Window Problem 2",
-    "description": "Solve this problem using sliding window. Focus on core sliding window pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
+    "title": "Binary Tree Level Order Traversal",
+    "description": "Traverse a binary tree level by level using BFS.",
+    "difficulty": "Medium",
     "topics": [
-      "sliding window"
-    ],
-    "patterns": [
-      "sliding window"
+      "tree",
+      "bfs"
     ]
   },
   {
     "id": 27,
-    "title": "Sliding Window Problem 3",
-    "description": "Solve this problem using sliding window. Focus on core sliding window pattern and efficient traversal or optimization.",
+    "title": "Validate Binary Search Tree",
+    "description": "Check if a binary tree is a valid BST.",
     "difficulty": "Medium",
     "topics": [
-      "sliding window"
-    ],
-    "patterns": [
-      "sliding window"
+      "tree",
+      "dfs"
     ]
   },
   {
     "id": 28,
-    "title": "Sliding Window Problem 4",
-    "description": "Solve this problem using sliding window. Focus on core sliding window pattern and efficient traversal or optimization.",
+    "title": "Number of Islands",
+    "description": "Count islands in a grid using DFS or BFS.",
     "difficulty": "Medium",
     "topics": [
-      "sliding window"
-    ],
-    "patterns": [
-      "sliding window"
+      "graph",
+      "dfs",
+      "bfs"
     ]
   },
   {
     "id": 29,
-    "title": "Sliding Window Problem 5",
-    "description": "Solve this problem using sliding window. Focus on core sliding window pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
+    "title": "Clone Graph",
+    "description": "Clone an undirected graph using DFS or BFS.",
+    "difficulty": "Medium",
     "topics": [
-      "sliding window"
-    ],
-    "patterns": [
-      "sliding window"
+      "graph",
+      "dfs"
     ]
   },
   {
     "id": 30,
-    "title": "Sliding Window Problem 6",
-    "description": "Solve this problem using sliding window. Focus on core sliding window pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
+    "title": "Course Schedule",
+    "description": "Determine if courses can be finished using topological sort.",
+    "difficulty": "Medium",
     "topics": [
-      "sliding window"
-    ],
-    "patterns": [
-      "sliding window"
+      "graph",
+      "bfs",
+      "topological sort"
     ]
   },
   {
     "id": 31,
-    "title": "Binary Search Problem 1",
-    "description": "Solve this problem using binary search. Focus on core binary search pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
+    "title": "Word Ladder",
+    "description": "Find the shortest transformation sequence using BFS.",
+    "difficulty": "Hard",
     "topics": [
-      "binary search"
-    ],
-    "patterns": [
-      "binary search"
+      "graph",
+      "bfs"
     ]
   },
   {
     "id": 32,
-    "title": "Binary Search Problem 2",
-    "description": "Solve this problem using binary search. Focus on core binary search pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
+    "title": "Pacific Atlantic Water Flow",
+    "description": "Find cells that can flow to both oceans using DFS.",
+    "difficulty": "Medium",
     "topics": [
-      "binary search"
-    ],
-    "patterns": [
-      "binary search"
+      "graph",
+      "dfs"
     ]
   },
   {
     "id": 33,
-    "title": "Binary Search Problem 3",
-    "description": "Solve this problem using binary search. Focus on core binary search pattern and efficient traversal or optimization.",
+    "title": "Top K Frequent Elements",
+    "description": "Find the k most frequent elements using heap.",
     "difficulty": "Medium",
     "topics": [
-      "binary search"
-    ],
-    "patterns": [
-      "binary search"
+      "heap",
+      "hash map"
     ]
   },
   {
     "id": 34,
-    "title": "Binary Search Problem 4",
-    "description": "Solve this problem using binary search. Focus on core binary search pattern and efficient traversal or optimization.",
+    "title": "Kth Largest Element in an Array",
+    "description": "Find the kth largest element using heap.",
     "difficulty": "Medium",
     "topics": [
-      "binary search"
-    ],
-    "patterns": [
-      "binary search"
+      "heap",
+      "array"
     ]
   },
   {
     "id": 35,
-    "title": "Binary Search Problem 5",
-    "description": "Solve this problem using binary search. Focus on core binary search pattern and efficient traversal or optimization.",
+    "title": "Merge K Sorted Lists",
+    "description": "Merge k sorted linked lists using heap.",
     "difficulty": "Hard",
     "topics": [
-      "binary search"
-    ],
-    "patterns": [
-      "binary search"
+      "heap",
+      "linked list"
     ]
   },
   {
     "id": 36,
-    "title": "Binary Search Problem 6",
-    "description": "Solve this problem using binary search. Focus on core binary search pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
+    "title": "Jump Game",
+    "description": "Determine if you can reach the last index using greedy.",
+    "difficulty": "Medium",
     "topics": [
-      "binary search"
-    ],
-    "patterns": [
-      "binary search"
+      "greedy",
+      "array"
     ]
   },
   {
     "id": 37,
-    "title": "Stack Problem 1",
-    "description": "Solve this problem using stack. Focus on core stack pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
+    "title": "Merge Intervals",
+    "description": "Merge overlapping intervals using greedy strategy.",
+    "difficulty": "Medium",
     "topics": [
-      "stack"
-    ],
-    "patterns": [
-      "stack"
+      "array",
+      "greedy"
     ]
   },
   {
     "id": 38,
-    "title": "Stack Problem 2",
-    "description": "Solve this problem using stack. Focus on core stack pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
+    "title": "Gas Station",
+    "description": "Find starting gas station using greedy approach.",
+    "difficulty": "Medium",
     "topics": [
-      "stack"
-    ],
-    "patterns": [
-      "stack"
+      "greedy",
+      "array"
     ]
   },
   {
     "id": 39,
-    "title": "Stack Problem 3",
-    "description": "Solve this problem using stack. Focus on core stack pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
+    "title": "Climbing Stairs",
+    "description": "Count ways to climb stairs using dynamic programming.",
+    "difficulty": "Easy",
     "topics": [
-      "stack"
-    ],
-    "patterns": [
-      "stack"
+      "dynamic programming"
     ]
   },
   {
     "id": 40,
-    "title": "Stack Problem 4",
-    "description": "Solve this problem using stack. Focus on core stack pattern and efficient traversal or optimization.",
+    "title": "House Robber",
+    "description": "Find maximum amount robbed without robbing adjacent houses.",
     "difficulty": "Medium",
     "topics": [
-      "stack"
-    ],
-    "patterns": [
-      "stack"
+      "dynamic programming"
     ]
   },
   {
     "id": 41,
-    "title": "Stack Problem 5",
-    "description": "Solve this problem using stack. Focus on core stack pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
+    "title": "Coin Change",
+    "description": "Find minimum coins to make a given amount using DP.",
+    "difficulty": "Medium",
     "topics": [
-      "stack"
-    ],
-    "patterns": [
-      "stack"
+      "dynamic programming"
     ]
   },
   {
     "id": 42,
-    "title": "Stack Problem 6",
-    "description": "Solve this problem using stack. Focus on core stack pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
+    "title": "Longest Increasing Subsequence",
+    "description": "Find the length of LIS using DP.",
+    "difficulty": "Medium",
     "topics": [
-      "stack"
-    ],
-    "patterns": [
-      "stack"
+      "dynamic programming"
     ]
   },
   {
     "id": 43,
-    "title": "Linked List Problem 1",
-    "description": "Solve this problem using linked list. Focus on core linked list pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
+    "title": "Edit Distance",
+    "description": "Compute minimum operations to convert one string to another.",
+    "difficulty": "Hard",
     "topics": [
-      "linked list"
-    ],
-    "patterns": [
-      "linked list"
+      "dynamic programming",
+      "string"
     ]
   },
   {
     "id": 44,
-    "title": "Linked List Problem 2",
-    "description": "Solve this problem using linked list. Focus on core linked list pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
+    "title": "Unique Paths",
+    "description": "Count unique paths in a grid using DP.",
+    "difficulty": "Medium",
     "topics": [
-      "linked list"
-    ],
-    "patterns": [
-      "linked list"
+      "dynamic programming"
     ]
   },
   {
     "id": 45,
-    "title": "Linked List Problem 3",
-    "description": "Solve this problem using linked list. Focus on core linked list pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
-    "topics": [
-      "linked list"
-    ],
-    "patterns": [
-      "linked list"
-    ]
-  },
-  {
-    "id": 46,
-    "title": "Linked List Problem 4",
-    "description": "Solve this problem using linked list. Focus on core linked list pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
-    "topics": [
-      "linked list"
-    ],
-    "patterns": [
-      "linked list"
-    ]
-  },
-  {
-    "id": 47,
-    "title": "Linked List Problem 5",
-    "description": "Solve this problem using linked list. Focus on core linked list pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
-    "topics": [
-      "linked list"
-    ],
-    "patterns": [
-      "linked list"
-    ]
-  },
-  {
-    "id": 48,
-    "title": "Linked List Problem 6",
-    "description": "Solve this problem using linked list. Focus on core linked list pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
-    "topics": [
-      "linked list"
-    ],
-    "patterns": [
-      "linked list"
-    ]
-  },
-  {
-    "id": 49,
-    "title": "Tree Problem 1",
-    "description": "Solve this problem using tree. Focus on core tree pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
-    "topics": [
-      "tree"
-    ],
-    "patterns": [
-      "tree"
-    ]
-  },
-  {
-    "id": 50,
-    "title": "Tree Problem 2",
-    "description": "Solve this problem using tree. Focus on core tree pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
-    "topics": [
-      "tree"
-    ],
-    "patterns": [
-      "tree"
-    ]
-  },
-  {
-    "id": 51,
-    "title": "Tree Problem 3",
-    "description": "Solve this problem using tree. Focus on core tree pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
-    "topics": [
-      "tree"
-    ],
-    "patterns": [
-      "tree"
-    ]
-  },
-  {
-    "id": 52,
-    "title": "Tree Problem 4",
-    "description": "Solve this problem using tree. Focus on core tree pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
-    "topics": [
-      "tree"
-    ],
-    "patterns": [
-      "tree"
-    ]
-  },
-  {
-    "id": 53,
-    "title": "Tree Problem 5",
-    "description": "Solve this problem using tree. Focus on core tree pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
-    "topics": [
-      "tree"
-    ],
-    "patterns": [
-      "tree"
-    ]
-  },
-  {
-    "id": 54,
-    "title": "Tree Problem 6",
-    "description": "Solve this problem using tree. Focus on core tree pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
-    "topics": [
-      "tree"
-    ],
-    "patterns": [
-      "tree"
-    ]
-  },
-  {
-    "id": 55,
-    "title": "Graph DFS Problem 1",
-    "description": "Solve this problem using dfs. Focus on core dfs pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
-    "topics": [
-      "dfs"
-    ],
-    "patterns": [
-      "dfs"
-    ]
-  },
-  {
-    "id": 56,
-    "title": "Graph DFS Problem 2",
-    "description": "Solve this problem using dfs. Focus on core dfs pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
-    "topics": [
-      "dfs"
-    ],
-    "patterns": [
-      "dfs"
-    ]
-  },
-  {
-    "id": 57,
-    "title": "Graph DFS Problem 3",
-    "description": "Solve this problem using dfs. Focus on core dfs pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
-    "topics": [
-      "dfs"
-    ],
-    "patterns": [
-      "dfs"
-    ]
-  },
-  {
-    "id": 58,
-    "title": "Graph DFS Problem 4",
-    "description": "Solve this problem using dfs. Focus on core dfs pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
-    "topics": [
-      "dfs"
-    ],
-    "patterns": [
-      "dfs"
-    ]
-  },
-  {
-    "id": 59,
-    "title": "Graph DFS Problem 5",
-    "description": "Solve this problem using dfs. Focus on core dfs pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
-    "topics": [
-      "dfs"
-    ],
-    "patterns": [
-      "dfs"
-    ]
-  },
-  {
-    "id": 60,
-    "title": "Graph DFS Problem 6",
-    "description": "Solve this problem using dfs. Focus on core dfs pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
-    "topics": [
-      "dfs"
-    ],
-    "patterns": [
-      "dfs"
-    ]
-  },
-  {
-    "id": 61,
-    "title": "Graph BFS Problem 1",
-    "description": "Solve this problem using bfs. Focus on core bfs pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
-    "topics": [
-      "bfs"
-    ],
-    "patterns": [
-      "bfs"
-    ]
-  },
-  {
-    "id": 62,
-    "title": "Graph BFS Problem 2",
-    "description": "Solve this problem using bfs. Focus on core bfs pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
-    "topics": [
-      "bfs"
-    ],
-    "patterns": [
-      "bfs"
-    ]
-  },
-  {
-    "id": 63,
-    "title": "Graph BFS Problem 3",
-    "description": "Solve this problem using bfs. Focus on core bfs pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
-    "topics": [
-      "bfs"
-    ],
-    "patterns": [
-      "bfs"
-    ]
-  },
-  {
-    "id": 64,
-    "title": "Graph BFS Problem 4",
-    "description": "Solve this problem using bfs. Focus on core bfs pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
-    "topics": [
-      "bfs"
-    ],
-    "patterns": [
-      "bfs"
-    ]
-  },
-  {
-    "id": 65,
-    "title": "Graph BFS Problem 5",
-    "description": "Solve this problem using bfs. Focus on core bfs pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
-    "topics": [
-      "bfs"
-    ],
-    "patterns": [
-      "bfs"
-    ]
-  },
-  {
-    "id": 66,
-    "title": "Graph BFS Problem 6",
-    "description": "Solve this problem using bfs. Focus on core bfs pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
-    "topics": [
-      "bfs"
-    ],
-    "patterns": [
-      "bfs"
-    ]
-  },
-  {
-    "id": 67,
-    "title": "Dynamic Programming Problem 1",
-    "description": "Solve this problem using dynamic programming. Focus on core dynamic programming pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
-    "topics": [
-      "dynamic programming"
-    ],
-    "patterns": [
-      "dynamic programming"
-    ]
-  },
-  {
-    "id": 68,
-    "title": "Dynamic Programming Problem 2",
-    "description": "Solve this problem using dynamic programming. Focus on core dynamic programming pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
-    "topics": [
-      "dynamic programming"
-    ],
-    "patterns": [
-      "dynamic programming"
-    ]
-  },
-  {
-    "id": 69,
-    "title": "Dynamic Programming Problem 3",
-    "description": "Solve this problem using dynamic programming. Focus on core dynamic programming pattern and efficient traversal or optimization.",
+    "title": "Partition Equal Subset Sum",
+    "description": "Check if array can be partitioned into equal sum subsets using DP.",
     "difficulty": "Medium",
     "topics": [
       "dynamic programming"
-    ],
-    "patterns": [
-      "dynamic programming"
-    ]
-  },
-  {
-    "id": 70,
-    "title": "Dynamic Programming Problem 4",
-    "description": "Solve this problem using dynamic programming. Focus on core dynamic programming pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
-    "topics": [
-      "dynamic programming"
-    ],
-    "patterns": [
-      "dynamic programming"
-    ]
-  },
-  {
-    "id": 71,
-    "title": "Dynamic Programming Problem 5",
-    "description": "Solve this problem using dynamic programming. Focus on core dynamic programming pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
-    "topics": [
-      "dynamic programming"
-    ],
-    "patterns": [
-      "dynamic programming"
-    ]
-  },
-  {
-    "id": 72,
-    "title": "Dynamic Programming Problem 6",
-    "description": "Solve this problem using dynamic programming. Focus on core dynamic programming pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
-    "topics": [
-      "dynamic programming"
-    ],
-    "patterns": [
-      "dynamic programming"
-    ]
-  },
-  {
-    "id": 73,
-    "title": "Greedy Problem 1",
-    "description": "Solve this problem using greedy. Focus on core greedy pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
-    "topics": [
-      "greedy"
-    ],
-    "patterns": [
-      "greedy"
-    ]
-  },
-  {
-    "id": 74,
-    "title": "Greedy Problem 2",
-    "description": "Solve this problem using greedy. Focus on core greedy pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
-    "topics": [
-      "greedy"
-    ],
-    "patterns": [
-      "greedy"
-    ]
-  },
-  {
-    "id": 75,
-    "title": "Greedy Problem 3",
-    "description": "Solve this problem using greedy. Focus on core greedy pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
-    "topics": [
-      "greedy"
-    ],
-    "patterns": [
-      "greedy"
-    ]
-  },
-  {
-    "id": 76,
-    "title": "Greedy Problem 4",
-    "description": "Solve this problem using greedy. Focus on core greedy pattern and efficient traversal or optimization.",
-    "difficulty": "Medium",
-    "topics": [
-      "greedy"
-    ],
-    "patterns": [
-      "greedy"
-    ]
-  },
-  {
-    "id": 77,
-    "title": "Greedy Problem 5",
-    "description": "Solve this problem using greedy. Focus on core greedy pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
-    "topics": [
-      "greedy"
-    ],
-    "patterns": [
-      "greedy"
-    ]
-  },
-  {
-    "id": 78,
-    "title": "Greedy Problem 6",
-    "description": "Solve this problem using greedy. Focus on core greedy pattern and efficient traversal or optimization.",
-    "difficulty": "Hard",
-    "topics": [
-      "greedy"
-    ],
-    "patterns": [
-      "greedy"
-    ]
-  },
-  {
-    "id": 79,
-    "title": "Heap Problem 1",
-    "description": "Solve this problem using heap. Focus on core heap pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
-    "topics": [
-      "heap"
-    ],
-    "patterns": [
-      "heap"
-    ]
-  },
-  {
-    "id": 80,
-    "title": "Heap Problem 2",
-    "description": "Solve this problem using heap. Focus on core heap pattern and efficient traversal or optimization.",
-    "difficulty": "Easy",
-    "topics": [
-      "heap"
-    ],
-    "patterns": [
-      "heap"
     ]
   }
 ]
