@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+numpy
+streamlit
+streamlit-autorefresh
+requests
+pandas
+pytest
+black
