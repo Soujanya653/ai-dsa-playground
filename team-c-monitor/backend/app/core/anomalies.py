@@ -1,16 +1,17 @@
 from typing import List
 import numpy as np
 import logging
-from backend.app.models import *
+from ..models import *
+
 logger = logging.getLogger(__name__)
 
 # ---- Anomaly Detection Thresholds ----
-MIN_EVENTS_FOR_ANALYSIS = 10
+MIN_EVENTS_FOR_ANALYSIS = 5
 LATENCY_STD_MULTIPLIER = 3
-MAX_ERROR_RATE = 0.20
+MAX_ERROR_RATE = 0.10
 
 
-def detect_anomalies(events: List["LogEvent"]) -> List[str]:
+def detect_anomalies(events: List["LogEvent"], metrics: dict) -> List[str]:
     """
     Detect anomalies in a list of log events based on latency and error rate.
 
@@ -42,8 +43,9 @@ def detect_anomalies(events: List["LogEvent"]) -> List[str]:
         if latencies.max() > mean_latency + (LATENCY_STD_MULTIPLIER * std_latency):
             anomalies.append("CRITICAL: Latency spike detected")
 
-        error_count = sum(event.is_error for event in events)
-        error_rate = error_count / len(events)
+        
+        
+        error_rate = metrics.get("error_rate", 0.0)
 
         if error_rate > MAX_ERROR_RATE:
             anomalies.append("WARNING: High error rate detected")

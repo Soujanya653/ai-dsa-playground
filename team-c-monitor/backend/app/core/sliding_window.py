@@ -7,7 +7,7 @@ from datetime import datetime, timedelta, timezone
 from typing import Deque, List
 import logging
 
-from backend.app.models import LogEvent
+from ..models import LogEvent
 
 logger = logging.getLogger(__name__)
 

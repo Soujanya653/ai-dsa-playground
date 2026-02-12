@@ -16,7 +16,7 @@ import logging
 
 import numpy as np
 
-from backend.app.models import LogEvent
+from ..models import *
 
 logger = logging.getLogger(__name__)
 
@@ -24,7 +24,7 @@ logger = logging.getLogger(__name__)
 TOKEN_COST_PER_1K = 0.002
 
 
-def compute_metrics(events: List[LogEvent], window_minutes: int = 5) -> Dict[str, float]:
+def compute_metrics(events: List[LogEvent], window_minutes: int = 2) -> Dict[str, float]:
     """
     Compute aggregated metrics over a rolling time window.
 

@@ -1,8 +1,8 @@
 from fastapi import FastAPI, HTTPException
-from app.models import LogEvent, MetricsResponse
-from app.core.sliding_window import SlidingWindow
-from app.core.metrics import compute_metrics
-from app.core.anomalies import detect_anomalies
+from .models import LogEvent, MetricsResponse
+from .core.sliding_window import SlidingWindow
+from .core.metrics import compute_metrics
+from .core.anomalies import detect_anomalies
 
 app = FastAPI(
     title="AI API Monitor",
@@ -53,7 +53,7 @@ def get_metrics() -> MetricsResponse:
             )
 
         metrics = compute_metrics(events)
-        anomalies = detect_anomalies(events)
+        anomalies = detect_anomalies(events ,metrics)
 
         return MetricsResponse(
             **metrics,
