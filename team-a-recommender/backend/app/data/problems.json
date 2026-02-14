@@ -1,0 +1,450 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "description": "Find two numbers that add up to a target using a hash map.",
+    "difficulty": "Easy",
+    "topics": [
+      "array",
+      "hash map"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Best Time to Buy and Sell Stock",
+    "description": "Find the maximum profit by choosing a single buy and sell day.",
+    "difficulty": "Easy",
+    "topics": [
+      "array",
+      "greedy"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Contains Duplicate",
+    "description": "Check if any value appears at least twice in the array.",
+    "difficulty": "Easy",
+    "topics": [
+      "array",
+      "hash map"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Product of Array Except Self",
+    "description": "Return an array where each element is the product except itself.",
+    "difficulty": "Medium",
+    "topics": [
+      "array",
+      "prefix sum"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Maximum Subarray",
+    "description": "Find the contiguous subarray with the maximum sum using dynamic programming.",
+    "difficulty": "Medium",
+    "topics": [
+      "array",
+      "dynamic programming"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Subarray Sum Equals K",
+    "description": "Count subarrays whose sum equals k using prefix sums and hash map.",
+    "difficulty": "Medium",
+    "topics": [
+      "array",
+      "hash map",
+      "prefix sum"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Container With Most Water",
+    "description": "Find two lines that form the container with the most water.",
+    "difficulty": "Medium",
+    "topics": [
+      "array",
+      "two pointers"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Longest Substring Without Repeating Characters",
+    "description": "Find the longest substring without repeating characters using sliding window.",
+    "difficulty": "Medium",
+    "topics": [
+      "string",
+      "sliding window",
+      "hash map"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Minimum Window Substring",
+    "description": "Find the smallest window containing all characters of another string.",
+    "difficulty": "Hard",
+    "topics": [
+      "string",
+      "sliding window",
+      "hash map"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Longest Consecutive Sequence",
+    "description": "Find the length of the longest consecutive elements sequence using hash map.",
+    "difficulty": "Medium",
+    "topics": [
+      "array",
+      "hash map"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Binary Search",
+    "description": "Search for a target in a sorted array using binary search.",
+    "difficulty": "Easy",
+    "topics": [
+      "array",
+      "binary search"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Search in Rotated Sorted Array",
+    "description": "Search a target in a rotated sorted array using binary search.",
+    "difficulty": "Medium",
+    "topics": [
+      "array",
+      "binary search"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Find First and Last Position of Element",
+    "description": "Find first and last occurrence of a target using binary search.",
+    "difficulty": "Medium",
+    "topics": [
+      "array",
+      "binary search"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Median of Two Sorted Arrays",
+    "description": "Find median of two sorted arrays using binary search.",
+    "difficulty": "Hard",
+    "topics": [
+      "array",
+      "binary search"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Valid Parentheses",
+    "description": "Check if parentheses are valid using a stack.",
+    "difficulty": "Easy",
+    "topics": [
+      "stack",
+      "string"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Daily Temperatures",
+    "description": "Find how many days until a warmer temperature using a stack.",
+    "difficulty": "Medium",
+    "topics": [
+      "stack",
+      "monotonic stack"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Largest Rectangle in Histogram",
+    "description": "Find the largest rectangle area using a monotonic stack.",
+    "difficulty": "Hard",
+    "topics": [
+      "stack",
+      "monotonic stack"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Next Greater Element I",
+    "description": "Find the next greater element using a stack.",
+    "difficulty": "Easy",
+    "topics": [
+      "stack",
+      "hash map"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Reverse Linked List",
+    "description": "Reverse a singly linked list iteratively.",
+    "difficulty": "Easy",
+    "topics": [
+      "linked list"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Merge Two Sorted Lists",
+    "description": "Merge two sorted linked lists using two pointers.",
+    "difficulty": "Easy",
+    "topics": [
+      "linked list",
+      "two pointers"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Linked List Cycle",
+    "description": "Detect a cycle in a linked list using fast and slow pointers.",
+    "difficulty": "Easy",
+    "topics": [
+      "linked list",
+      "two pointers"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Remove Nth Node From End of List",
+    "description": "Remove the nth node from end using two pointers.",
+    "difficulty": "Medium",
+    "topics": [
+      "linked list",
+      "two pointers"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Maximum Depth of Binary Tree",
+    "description": "Find the maximum depth of a binary tree using DFS.",
+    "difficulty": "Easy",
+    "topics": [
+      "tree",
+      "dfs"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Invert Binary Tree",
+    "description": "Invert a binary tree recursively.",
+    "difficulty": "Easy",
+    "topics": [
+      "tree",
+      "dfs"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "description": "Find LCA of two nodes in a binary tree using DFS.",
+    "difficulty": "Medium",
+    "topics": [
+      "tree",
+      "dfs"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Binary Tree Level Order Traversal",
+    "description": "Traverse a binary tree level by level using BFS.",
+    "difficulty": "Medium",
+    "topics": [
+      "tree",
+      "bfs"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Validate Binary Search Tree",
+    "description": "Check if a binary tree is a valid BST.",
+    "difficulty": "Medium",
+    "topics": [
+      "tree",
+      "dfs"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Number of Islands",
+    "description": "Count islands in a grid using DFS or BFS.",
+    "difficulty": "Medium",
+    "topics": [
+      "graph",
+      "dfs",
+      "bfs"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Clone Graph",
+    "description": "Clone an undirected graph using DFS or BFS.",
+    "difficulty": "Medium",
+    "topics": [
+      "graph",
+      "dfs"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Course Schedule",
+    "description": "Determine if courses can be finished using topological sort.",
+    "difficulty": "Medium",
+    "topics": [
+      "graph",
+      "bfs",
+      "topological sort"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Word Ladder",
+    "description": "Find the shortest transformation sequence using BFS.",
+    "difficulty": "Hard",
+    "topics": [
+      "graph",
+      "bfs"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Pacific Atlantic Water Flow",
+    "description": "Find cells that can flow to both oceans using DFS.",
+    "difficulty": "Medium",
+    "topics": [
+      "graph",
+      "dfs"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Top K Frequent Elements",
+    "description": "Find the k most frequent elements using heap.",
+    "difficulty": "Medium",
+    "topics": [
+      "heap",
+      "hash map"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Kth Largest Element in an Array",
+    "description": "Find the kth largest element using heap.",
+    "difficulty": "Medium",
+    "topics": [
+      "heap",
+      "array"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Merge K Sorted Lists",
+    "description": "Merge k sorted linked lists using heap.",
+    "difficulty": "Hard",
+    "topics": [
+      "heap",
+      "linked list"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Jump Game",
+    "description": "Determine if you can reach the last index using greedy.",
+    "difficulty": "Medium",
+    "topics": [
+      "greedy",
+      "array"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Merge Intervals",
+    "description": "Merge overlapping intervals using greedy strategy.",
+    "difficulty": "Medium",
+    "topics": [
+      "array",
+      "greedy"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Gas Station",
+    "description": "Find starting gas station using greedy approach.",
+    "difficulty": "Medium",
+    "topics": [
+      "greedy",
+      "array"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Climbing Stairs",
+    "description": "Count ways to climb stairs using dynamic programming.",
+    "difficulty": "Easy",
+    "topics": [
+      "dynamic programming"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "House Robber",
+    "description": "Find maximum amount robbed without robbing adjacent houses.",
+    "difficulty": "Medium",
+    "topics": [
+      "dynamic programming"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Coin Change",
+    "description": "Find minimum coins to make a given amount using DP.",
+    "difficulty": "Medium",
+    "topics": [
+      "dynamic programming"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Longest Increasing Subsequence",
+    "description": "Find the length of LIS using DP.",
+    "difficulty": "Medium",
+    "topics": [
+      "dynamic programming"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Edit Distance",
+    "description": "Compute minimum operations to convert one string to another.",
+    "difficulty": "Hard",
+    "topics": [
+      "dynamic programming",
+      "string"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Unique Paths",
+    "description": "Count unique paths in a grid using DP.",
+    "difficulty": "Medium",
+    "topics": [
+      "dynamic programming"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Partition Equal Subset Sum",
+    "description": "Check if array can be partitioned into equal sum subsets using DP.",
+    "difficulty": "Medium",
+    "topics": [
+      "dynamic programming"
+    ]
+  }
+]

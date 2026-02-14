@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+pytest
+black
+ruff
+pydantic
+scikit-learn
+numpy
+pandas
+httpx
