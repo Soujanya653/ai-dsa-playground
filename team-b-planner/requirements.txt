@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+streamlit
+pytest
+black
+isort
+ruff
+requests

@@ -1,0 +1,104 @@
+{
+  "user_id": "default_user",
+  "created_at": "2026-02-11T11:04:04.537195",
+  "last_updated": "2026-02-11T11:06:13.150123",
+  "difficulty_adjustments": {
+    "3": 5.45,
+    "4": 5.45,
+    "9": 5.45,
+    "16": 5.0,
+    "1": 5.45
+  },
+  "topic_mastery": {
+    "tree": 0.03,
+    "dfs": 0.03,
+    "sliding_window": 0.03,
+    "hashmap": 0.06,
+    "heap": 0.03,
+    "dp": 0.016,
+    "array": 0.03
+  },
+  "problem_history": {
+    "3": {
+      "attempts": 1,
+      "successes": 1,
+      "times": [
+        25
+      ],
+      "base_duration": 25,
+      "last_seen": "2026-02-11T11:04:52.420739",
+      "avg_time": 25.0
+    },
+    "4": {
+      "attempts": 1,
+      "successes": 1,
+      "times": [
+        40
+      ],
+      "base_duration": 30,
+      "last_seen": "2026-02-11T11:05:34.829535",
+      "avg_time": 40.0
+    },
+    "9": {
+      "attempts": 1,
+      "successes": 1,
+      "times": [
+        30
+      ],
+      "base_duration": 25,
+      "last_seen": "2026-02-11T11:05:34.829535",
+      "avg_time": 30.0
+    },
+    "16": {
+      "attempts": 1,
+      "successes": 1,
+      "times": [
+        40
+      ],
+      "base_duration": 25,
+      "last_seen": "2026-02-11T11:06:13.150123",
+      "avg_time": 40.0
+    },
+    "1": {
+      "attempts": 1,
+      "successes": 1,
+      "times": [
+        24
+      ],
+      "base_duration": 15,
+      "last_seen": "2026-02-11T11:06:13.150123",
+      "avg_time": 24.0
+    }
+  },
+  "topic_last_seen": {
+    "tree": "2026-02-11T11:04:52.420739",
+    "dfs": "2026-02-11T11:04:52.420739",
+    "sliding_window": "2026-02-11T11:05:34.829535",
+    "hashmap": "2026-02-11T11:06:13.150123",
+    "heap": "2026-02-11T11:05:34.829535",
+    "dp": "2026-02-11T11:06:13.150123",
+    "array": "2026-02-11T11:06:13.150123"
+  },
+  "speed_factor": 1.3466666666666667,
+  "preferences": {
+    "favorite_topics": [],
+    "avoid_topics": [],
+    "preferred_time_range": [
+      30,
+      90
+    ],
+    "preferred_difficulty_range": [
+      3,
+      7
+    ]
+  },
+  "statistics": {
+    "total_sessions": 3,
+    "total_problems_attempted": 5,
+    "total_problems_solved": 5,
+    "total_practice_time": 159,
+    "average_session_length": 0,
+    "current_streak": 3,
+    "longest_streak": 3
+  }
+}

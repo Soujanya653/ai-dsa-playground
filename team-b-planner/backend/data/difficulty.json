@@ -1,0 +1,88 @@
+
+
+{
+  "user_id": "default_user",
+  "created_at": "2024-02-09T00:00:00",
+  "last_updated": "2024-02-09T00:00:00",
+  
+  "difficulty_adjustments": {
+    "1": 3.2,
+    "3": 5.8,
+    "5": 6.5,
+    "6": 3.5
+  },
+  
+  "topic_mastery": {
+    "array": 0.65,
+    "hashmap": 0.70,
+    "tree": 0.45,
+    "dfs": 0.40,
+    "dp": 0.35,
+    "sliding_window": 0.50,
+    "sorting": 0.60,
+    "stack": 0.55
+  },
+  
+  "problem_history": {
+    "1": {
+      "attempts": 3,
+      "successes": 3,
+      "last_seen": "2024-02-08T10:30:00",
+      "times": [18, 15, 12],
+      "avg_time": 15.0,
+      "base_duration": 15
+    },
+    "3": {
+      "attempts": 2,
+      "successes": 1,
+      "last_seen": "2024-02-07T14:20:00",
+      "times": [30, 28],
+      "avg_time": 29.0,
+      "base_duration": 25
+    },
+    "5": {
+      "attempts": 2,
+      "successes": 2,
+      "last_seen": "2024-02-06T16:45:00",
+      "times": [22, 20],
+      "avg_time": 21.0,
+      "base_duration": 25
+    },
+    "6": {
+      "attempts": 1,
+      "successes": 1,
+      "last_seen": "2024-02-05T11:00:00",
+      "times": [12],
+      "avg_time": 12.0,
+      "base_duration": 15
+    }
+  },
+  
+  "topic_last_seen": {
+    "array": "2024-02-08T10:30:00",
+    "hashmap": "2024-02-08T10:30:00",
+    "tree": "2024-02-07T14:20:00",
+    "dfs": "2024-02-07T14:20:00",
+    "sorting": "2024-02-06T16:45:00",
+    "dp": "2024-02-05T11:00:00"
+  },
+  
+  "speed_factor": 0.92,
+  
+  "preferences": {
+    "favorite_topics": ["array", "hashmap"],
+    "avoid_topics": [],
+    "preferred_time_range": [30, 90],
+    "preferred_difficulty_range": [3, 7]
+  },
+  
+  "statistics": {
+    "total_sessions": 12,
+    "total_problems_attempted": 45,
+    "total_problems_solved": 38,
+    "total_practice_time": 720,
+    "average_session_length": 60,
+    "current_streak": 5,
+    "longest_streak": 12
+  }
+}

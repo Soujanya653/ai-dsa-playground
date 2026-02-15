@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Two Sum",
+    "topics": ["array", "hashmap"],
+    "duration": 15,
+    "difficulty": 3
+  },
+  {
+    "id": 2,
+    "title": "Valid Parentheses",
+    "topics": ["stack"],
+    "duration": 20,
+    "difficulty": 4
+  },
+  {
+    "id": 3,
+    "title": "Binary Tree Inorder Traversal",
+    "topics": ["tree", "dfs"],
+    "duration": 25,
+    "difficulty": 5
+  },
+  {
+    "id": 4,
+    "title": "Longest Substring Without Repeating Characters",
+    "topics": ["sliding_window", "hashmap"],
+    "duration": 30,
+    "difficulty": 6
+  },
+  {
+    "id": 5,
+    "title": "Merge Intervals",
+    "topics": ["array", "sorting"],
+    "duration": 25,
+    "difficulty": 5
+  },
+  {
+  "id": 6,
+  "title": "Climbing Stairs",
+  "topics": ["dp"],
+  "duration": 15,
+  "difficulty": 3
+  },
+  {
+  "id": 7,
+  "title": "House Robber",
+  "topics": ["dp"],
+  "duration": 20,
+  "difficulty": 5
+  },
+  {
+  "id": 8,
+  "title": "Binary Search",
+  "topics": ["binary_search"],
+  "duration": 20,
+  "difficulty": 4
+  },
+  {
+  "id": 9,
+  "title": "Top K Elements",
+  "topics": ["heap"],
+  "duration": 25,
+  "difficulty": 6
+  },
+  {
+  "id": 10,
+  "title": "Graph Traversal",
+  "topics": ["graph", "bfs"],
+  "duration": 30,
+  "difficulty": 5
+  },
+  {
+  "id": 11,
+  "title": "Reverse String",
+  "topics": ["string", "two_pointers"],
+  "duration": 10,
+  "difficulty": 1
+  },
+  {
+  "id": 12,
+  "title": "Find Peak Element",
+  "topics": ["binary_search"],
+  "duration": 20,
+  "difficulty": 5
+  },
+  {
+  "id": 13,
+  "title": "LRU Cache",
+  "topics": ["design", "hashmap"],
+  "duration": 35,
+  "difficulty": 7
+  },
+  {
+  "id": 14,
+  "title": "Word Ladder",
+  "topics": ["graph", "bfs"],
+  "duration": 40,
+  "difficulty": 8
+  },
+  {
+  "id": 15,
+  "title": "Maximum Subarray",
+  "topics": ["array", "dp"],
+  "duration": 20,
+  "difficulty": 4
+  },
+  {
+  "id": 16,
+  "title": "Coin Change",
+  "topics": ["dp"],
+  "duration": 25,
+  "difficulty": 6
+  },
+  {
+  "id": 17,
+  "title": "Median of Two Sorted Arrays",
+  "topics": ["binary_search"],
+  "duration": 45,
+  "difficulty": 9
+  },
+  {
+  "id": 18,
+  "title": "Valid Anagram",
+  "topics": ["string", "hashmap"],
+  "duration": 12,
+  "difficulty": 2
+  },
+  {
+  "id": 19,
+  "title": "Serialize Deserialize Binary Tree",
+  "topics": ["tree", "design"],
+  "duration": 40,
+  "difficulty": 8
+  },
+  {
+  "id": 20,
+  "title": "Trapping Rain Water",
+  "topics": ["array", "two_pointers"],
+  "duration": 35,
+  "difficulty": 7
+  }
+]
